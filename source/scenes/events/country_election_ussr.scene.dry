@@ -4,7 +4,7 @@ max-visits: 1
 on-arrival: {!
 Q.stalin_influence = 3;
 Q.trotsky_influence = 1;
-Q.bukharin_influence = 0;
+Q.bukharin_influence = 5;
 Q.duumvirate_influence = 0;
 
 if (Q.violent_revolution == 1) {
